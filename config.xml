@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/hectortzn" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="udkuY923Ds.hectortzn" package="udkuY923Ds" required_version="2.3"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="Photo on 02-08-015.jpg" height="117" width="117"/>
+    <name>hectortzn</name>
+    <tizen:privilege name="http://tizen.org/privilege/application.info"/>
+    <tizen:privilege name="http://tizen.org/privilege/application.launch"/>
+    <tizen:privilege name="http://tizen.org/privilege/call"/>
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+    <tizen:privilege name="http://tizen.org/privilege/messaging.read"/>
+    <tizen:privilege name="http://tizen.org/privilege/messaging.write"/>
+    <tizen:privilege name="http://tizen.org/privilege/fullscreen"/>
+    <tizen:profile name="mobile"/>
+</widget>
